@@ -7,7 +7,6 @@ import inquirer from "inquirer"
 
 import fs from "fs"
 import { get } from "https"
-import { isString } from "util"
 
 operation()
 
